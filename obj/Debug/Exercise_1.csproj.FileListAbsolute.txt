@@ -1,0 +1,7 @@
+C:\Users\Rylan\Documents\PerScholas\c#\Exercise_1\obj\Debug\Exercise_1.csprojAssemblyReference.cache
+C:\Users\Rylan\Documents\PerScholas\c#\Exercise_1\obj\Debug\Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\Rylan\Documents\PerScholas\c#\Exercise_1\bin\Debug\Exercise_1.exe.config
+C:\Users\Rylan\Documents\PerScholas\c#\Exercise_1\bin\Debug\Exercise_1.exe
+C:\Users\Rylan\Documents\PerScholas\c#\Exercise_1\bin\Debug\Exercise_1.pdb
+C:\Users\Rylan\Documents\PerScholas\c#\Exercise_1\obj\Debug\Exercise_1.exe
+C:\Users\Rylan\Documents\PerScholas\c#\Exercise_1\obj\Debug\Exercise_1.pdb
